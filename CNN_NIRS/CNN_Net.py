@@ -1,6 +1,6 @@
 """
     Create on 2020-10-27
-    Author：Pengyou Fu
+    Author：Pengyou Fu全文
     Describe：this for NIRS_Classification use CNN model
 """
 
